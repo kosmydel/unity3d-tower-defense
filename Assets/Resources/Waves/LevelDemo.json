@@ -1,0 +1,47 @@
+﻿{
+  "name": "Poziom DEMO",
+  "startingMoney": 1000,
+  "startingHealth": 1000,
+  "waves": [
+    {
+      "id": 1,
+      "monsters": [
+        {
+          "monsterID": 0,
+          "amount": 5,
+          "delay": 10
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "monsters": [
+        {
+          "monsterID": 0,
+          "amount": 3,
+          "delay": 5
+        },
+        {
+          "monsterID": -1,
+          "amount": 1,
+          "delay": 10
+        },
+        {
+          "monsterID": 1,
+          "amount": 3,
+          "delay": 5
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "monsters": [
+        {
+          "monsterID": 3,
+          "amount": 1,
+          "delay": 5
+        }
+      ]
+    }
+  ]
+}

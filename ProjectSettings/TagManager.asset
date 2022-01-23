@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Monster
+  - Path
+  - Cannon
+  - Mountain
+  - Gate
+  - Environment
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3174422213
+    locked: 0
+  - name: Monsters
+    uniqueID: 2723464635
+    locked: 0
+  - name: Environment
+    uniqueID: 696304745
+    locked: 0
+  - name: Cannons
+    uniqueID: 2520206655
+    locked: 0
+  - name: ExtraBonuses
+    uniqueID: 412624331
+    locked: 0

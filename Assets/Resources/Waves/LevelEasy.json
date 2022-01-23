@@ -1,0 +1,253 @@
+﻿{
+  "name": "Poziom łatwy",
+  "startingMoney": 100,
+  "startingHealth": 20,
+  "waves": [
+    {
+      "id": 1,
+      "monsters": [
+        {
+          "monsterID": 0,
+          "amount": 5,
+          "delay": 10
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "monsters": [
+        {
+          "monsterID": 0,
+          "amount": 10,
+          "delay": 5
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "message": "There are many types of monsters!",
+      "monsters": [
+        {
+          "monsterID": 1,
+          "amount": 5,
+          "delay": 10
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "message": "To upgrade the cannon click on it!",
+      "monsters": [
+        {
+          "monsterID": 0,
+          "amount": 5,
+          "delay": 5
+        },
+        {
+          "monsterID": 1,
+          "amount": 5,
+          "delay": 5
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "monsters": [
+        {
+          "monsterID": 1,
+          "amount": 20,
+          "delay": 5
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "message": "Watch out!\nYellow ones have shorter path!",
+      "monsters": [
+        {
+          "monsterID": 2,
+          "amount": 5,
+          "delay": 10
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "monsters": [
+        {
+          "monsterID": 0,
+          "amount": 15,
+          "delay": 5
+        },
+        {
+          "monsterID": 1,
+          "amount": 10,
+          "delay": 5
+        },
+        {
+          "monsterID": 2,
+          "amount": 10,
+          "delay": 5
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "message": "Red monsters are incoming!\nThey are slow but strong!",
+      "monsters": [
+        {
+          "monsterID": 3,
+          "amount": 1,
+          "delay": 50
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "monsters": [
+        {
+          "monsterID": 0,
+          "amount": 5,
+          "delay": 1
+        },
+        {
+          "monsterID": 1,
+          "amount": 5,
+          "delay": 3
+        },
+        {
+          "monsterID": 2,
+          "amount": 5,
+          "delay": 5
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "monsters": [
+        {
+          "monsterID": 3,
+          "amount": 1,
+          "delay": 1
+        },
+        {
+          "monsterID": 1,
+          "amount": 20,
+          "delay": 1
+        },
+        {
+          "monsterID": 2,
+          "amount": 10,
+          "delay": 5
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "monsters": [
+        {
+          "monsterID": 0,
+          "amount": 10,
+          "delay": 1
+        },
+        {
+          "monsterID": 3,
+          "amount": 1,
+          "delay": 1
+        },
+        {
+          "monsterID": 1,
+          "amount": 20,
+          "delay": 1
+        },
+        {
+          "monsterID": 2,
+          "amount": 20,
+          "delay": 1
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "message": "New baloooons!",
+      "monsters": [
+        {
+          "monsterID": 4,
+          "amount": 5,
+          "delay": 10
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "monsters": [
+        {
+          "monsterID": 3,
+          "amount": 5,
+          "delay": 10
+        },
+        {
+          "monsterID": 1,
+          "amount": 20,
+          "delay": 5
+        },
+        {
+          "monsterID": 2,
+          "amount": 10,
+          "delay": 1
+        },
+        {
+          "monsterID": 4,
+          "amount": 10,
+          "delay": 3
+        },
+        {
+          "monsterID": 3,
+          "amount": 1,
+          "delay": 10
+        },
+        {
+          "monsterID": 4,
+          "amount": 10,
+          "delay": 3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "message": "MOAAAAAB!",
+      "monsters": [
+        {
+          "monsterID": 5,
+          "amount": 1,
+          "delay": 1
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "monsters": [
+        {
+          "monsterID": 5,
+          "amount": 3,
+          "delay": 25
+        },
+        {
+          "monsterID": 1,
+          "amount": 30,
+          "delay": 1
+        },
+        {
+          "monsterID": 4,
+          "amount": 30,
+          "delay": 3
+        },
+        {
+          "monsterID": 2,
+          "amount": 50,
+          "delay": 5
+        }
+      ]
+    }
+  ]
+}
