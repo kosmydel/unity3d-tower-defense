@@ -102,5 +102,5 @@ MonoBehaviour:
   displayName: Bomb
   explosionAnimation: {fileID: 4480346289489257435, guid: 0fa32ec4d932b004891d569895526d62, type: 3}
   bombRange: 2
-  bombPercentageDamage: 0.2
+  bombPercentageDamage: 0.344
   bombAbsoluteDamage: 50
