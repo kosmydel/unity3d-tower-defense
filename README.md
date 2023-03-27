@@ -5,27 +5,27 @@
 ![Main menu](/images/0.PNG)
 
 ### Game
-You start the game with given amount of lives and money. Then your aim is to survive all waves by using canoons.
+You start the game with a given amount of lives and money. Then you aim to survive all waves by using cannons.
 
 ![Game](/images/1.PNG)
 
 ### Upgrading panel
-There is built-in upgrading module. You can add upgrades to each canoon by specyfing upgrade cost and upgraded canoon prefab.
+There is a built-in upgrading module. You can add upgrades to each cannon by specifying upgrade cost and upgraded cannon prefab.
 
 ![Upgrade](/images/2.PNG)
 
-### Many types of baloons
-You can easily add new types of baloons by creating new prefab and registering it in the GameManager. There are default baloon parameters which you can adjust (like health, money gained for killing, speed) in the `MonsterScript` abstract.
+### Many types of balloons
+You can easily add new types of balloons by creating a new prefab and registering it in the GameManager. There are default balloon parameters that you can adjust (like health, the money gained for killing, and speed) in the `MonsterScript` abstract.
 
 ![Game](/images/3.PNG)
 
 ### Extra bonuses
-There are 2 default bonuses: wall and bomb which can help you win the game. Be careful, there is colldown between usages!
+There are 2 default bonuses: wall and bomb which can help you win the game. Be careful, there is a cooldown between usages!
 
 ![Bonuses](/images/4.PNG)
 
 ## Other
-**Configurable shop** - configuration of shop is easy. To add item to the shop just use prefab with configurable parameters. Remember that `Item` has to use abstract class `ShopItem`.
+**Configurable shop** - configuration of the shop is easy. To add an item to the shop just use a prefab with configurable parameters. Remember that `Item` has to use the abstract class `ShopItem`.
 
 ![Bonuses](/images/5.PNG)
 
